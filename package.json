@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@headlessui/react": "^0.2.0",
     "@zeit/next-sass": "^1.0.1",
     "next": "^10.0.2",
     "node-sass": "^5.0.0",
