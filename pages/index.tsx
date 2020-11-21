@@ -1,8 +1,10 @@
+import Header from "../components/header/header.component"
+
 const HomePage = () => {
 
     return (
         <>
-            Welcome
+            <Header />
         </>
     );
 }
