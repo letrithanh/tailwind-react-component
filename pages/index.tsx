@@ -1,5 +1,3 @@
-import CloudCard from "../components/cloud-card/cloud-card.component"
-
 const HomePage = () => {
 
     return (
